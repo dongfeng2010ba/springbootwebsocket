@@ -36,5 +36,7 @@ public class ClientMaster2 implements Serializable {
     }
 
     public ClientMaster2() {
+        System.out.println("asdasdasds");
     }
+
 }
