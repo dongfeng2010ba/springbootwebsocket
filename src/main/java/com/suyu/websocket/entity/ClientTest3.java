@@ -36,5 +36,6 @@ public class ClientTest3 implements Serializable {
     }
 
     public ClientTest3() {
+        System.out.println("新增流程模块");
     }
 }
