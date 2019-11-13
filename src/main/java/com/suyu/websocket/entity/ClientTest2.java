@@ -37,5 +37,6 @@ public class ClientTest2 implements Serializable {
 
     public ClientTest2() {
         System.out.println("hahah");
+        System.out.println("新增通信模块");
     }
 }
