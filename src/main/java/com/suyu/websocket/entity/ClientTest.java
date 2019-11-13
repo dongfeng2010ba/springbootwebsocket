@@ -37,5 +37,21 @@ public class ClientTest implements Serializable {
 
     public ClientTest() {
         System.out.println("test");
+        System.out.println("新增1");
+        System.out.println("新增2");
+        System.out.println("新增3");
+        System.out.println("新增4");
+        System.out.println("新增5");
+        System.out.println("新增6");
+        System.out.println("新增7");
+        System.out.println("新增7");
+        System.out.println("新增b");
+        System.out.println("新增c");
+        System.out.println("新增d");
+        System.out.println("新增11");
+        System.out.println("新增12");
+        System.out.println("新增13");
+
+
     }
 }
