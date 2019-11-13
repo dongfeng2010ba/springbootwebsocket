@@ -38,5 +38,10 @@ public class ClientB1 implements Serializable {
     }
 
     public ClientB1() {
+        System.out.println("ceshi");
+        System.out.println();
+        System.out.println("3");
     }
 }
+
+

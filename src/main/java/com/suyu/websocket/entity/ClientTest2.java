@@ -36,5 +36,6 @@ public class ClientTest2 implements Serializable {
     }
 
     public ClientTest2() {
+        System.out.println("hahah");
     }
 }
