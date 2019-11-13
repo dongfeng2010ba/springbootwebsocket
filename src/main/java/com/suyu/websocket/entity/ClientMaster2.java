@@ -36,5 +36,8 @@ public class ClientMaster2 implements Serializable {
     }
 
     public ClientMaster2() {
+
+        System.out.println("修复bug");
+
     }
 }
