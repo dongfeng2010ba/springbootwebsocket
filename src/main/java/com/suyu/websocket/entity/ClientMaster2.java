@@ -1,6 +1,7 @@
 package com.suyu.websocket.entity;
 
 import javax.websocket.Session;
+import javax.xml.bind.SchemaOutputResolver;
 import java.io.Serializable;
 
 /**
@@ -38,6 +39,13 @@ public class ClientMaster2 implements Serializable {
     public ClientMaster2() {
 
         System.out.println("修复bug");
+
+        System.out.println("1.0");
+
+
+        System.out.println("1.1");
+
+        System.out.println("1.2");
 
     }
 }
