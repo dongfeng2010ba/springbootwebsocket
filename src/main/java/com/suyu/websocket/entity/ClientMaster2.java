@@ -51,5 +51,7 @@ public class ClientMaster2 implements Serializable {
 
         System.out.println("1.4");
 
+        System.out.println("1.5");
+
     }
 }
