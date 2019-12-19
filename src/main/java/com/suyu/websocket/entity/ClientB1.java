@@ -41,6 +41,7 @@ public class ClientB1 implements Serializable {
         System.out.println("ceshi");
         System.out.println();
         System.out.println("3");
+        System.out.println("develop1修改了ClientB1");
     }
 }
 
